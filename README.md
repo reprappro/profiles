@@ -1,9 +1,8 @@
 RepRapPro slicing profiles
 ========
 
-Official RepRapPro profiles for slicing your 3D model STL files into GCode.
+Official RepRapPro profiles for Duet based machines for slicing your 3D model STL files into GCode.
 
-Download and extract the zip, then point Pronterface to it using the Settings | Options menu.
+Here are Slic3r config bundles to use with Slic3r 1.2.5  and above binaries. You can get these from http://slic3r.org/download and follow the installation instructions you will find there. Once installed click File, load config bundle and choose the file appropriate to your machine.
 
-Slic3r profiles to use with Slic3r 0.9.9 binaries. You can get these from http://slic3r.org/download and follow the installation instructions you will find there.
-
+If you have an older, Melzi based machine, profiles for your machine may be downloaded from the link under the "Tags" section linked at the top of this page.
