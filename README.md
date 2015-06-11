@@ -9,4 +9,4 @@ To install our config bundle for Slic3r, download the whole repository by clicki
 
 If you want to download just the .ini file for your machine from this repository, **DO NOT right click and download the file from the first page!** While you will get a file that is called '[machine name].ini', it will be an html file, not the settings file, and will not import into Slic3r. To get the correct version of file, click on the link on the first page of this repository, then download the 'RAW' version of the file.
 
-If you have an older, Melzi based machine, profiles for your machine may be downloaded from the link under the "Tags" section linked at the top of this page.
+If you have an older, Melzi-based printer (Legacy/Mono/Tricolour Mendel, Huxley), profiles for your machine may be downloaded from the "Releases" section here: https://github.com/reprappro/profiles/releases (or click the 'release' link at the top of the github repository page.)
